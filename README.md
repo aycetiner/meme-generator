@@ -1,3 +1,3 @@
 # Meme-Generator
 
-https://rhogal.github.io/Meme-Generator/
+https://aycetiner.github.io/Meme-Generator/
