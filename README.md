@@ -8,7 +8,7 @@ Generate any meme you want!
 
 ## Built With
 
-Built with Flask JS, HTML and CSS
+Built with JS, HTML and CSS
 
 
 * [![JQuery][JQuery.com]][JQuery-url]
