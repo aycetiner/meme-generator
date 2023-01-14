@@ -58,4 +58,4 @@ Built with JS, HTML and CSS
 [Python-url]:https://www.python.org/
 [Postgresql.org]:https://img.shields.io/badge/-PostgreSQL-F5F5F5?style=for-the-badge&logo=postgresql
 [Postgresql-url]:https://www.postgresql.org/
-[License-img]:https://img.shields.io/apm/l/l
+[License-img]:https://img.shields.io/badge/license-MIT-blue
