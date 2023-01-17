@@ -16,7 +16,7 @@ Built with JS, HTML and CSS
 
 ## License
   
-  [![MIT License][License-img]](https://github.com/aycetiner/database-dj/blob/main/LICENSE)
+  [![MIT License][License-img]](https://github.com/aycetiner/meme-generator/blob/main/LICENSE)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
